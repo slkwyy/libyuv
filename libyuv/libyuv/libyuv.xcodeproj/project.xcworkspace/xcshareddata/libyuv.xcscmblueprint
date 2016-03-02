@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6A3B4D2909F28DB31AD1B89DCEECA4FB6C94CC46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6A3B4D2909F28DB31AD1B89DCEECA4FB6C94CC46" : 0,
+    "AF19C7671C2FBC63C87EE53CDB49D098A04C2C5F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FC8B6C51-4F3A-42D1-8981-57F2802157D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6A3B4D2909F28DB31AD1B89DCEECA4FB6C94CC46" : "libyuv\/",
+    "AF19C7671C2FBC63C87EE53CDB49D098A04C2C5F" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "libyuv",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "libyuv\/libyuv.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/chromium.googlesource.com\/libyuv\/libyuv",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A3B4D2909F28DB31AD1B89DCEECA4FB6C94CC46"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:shilingkai\/MediaStreamer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF19C7671C2FBC63C87EE53CDB49D098A04C2C5F"
+    }
+  ]
+}

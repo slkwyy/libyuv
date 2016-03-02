@@ -1,0 +1,5 @@
+# -----
+.DS_Store
+.gclient
+.gclient_entries
+depot_tools
