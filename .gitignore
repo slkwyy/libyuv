@@ -3,3 +3,5 @@
 .gclient
 .gclient_entries
 depot_tools
+
+ios

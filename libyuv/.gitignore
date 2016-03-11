@@ -32,3 +32,5 @@ libgtest.a
 libyuv.a
 libyuv_unittest
 cmake_install.cmake
+
+obj
